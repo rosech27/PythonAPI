@@ -1,0 +1,4 @@
+1) In my particular dataset, near the equator temperatures are higher. But the dip as you go farther from the equator is more visible in the northern hemisphere. This could be because it is summer in the southern hemisphere now and also northern part of the earth is more populated than the south and hence more cities hence more data points.
+2) There seems to be no particular relationship between latitude and humidity. however there seems to be more humid cities than dry ones in this randomized dataset.
+3) No apparent relationship between latitude and wind speed. There are windy cities on sides of the equator. 
+4) Out of all the parameters we checked cloudiness seems to be the most unrelated to latitude as the graph is more of less equally distributed.
